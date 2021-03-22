@@ -14,7 +14,7 @@ Zaimplementować wyjątek w swoim projekcie.
   Przygotować po 3-4 scenariusze testów (opisowe), zamieścić scensariusze w pliku readme.md w repozytorium  
   Napisać testy oparte na tych scenariuszach (użyć 3 różnych przeglądarek)  
   Stworzyć test boundle/scenariusz testów  
-   [rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab2/out/production/TAU/com/company/lab2)  
+   [rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab2)  
    
 
 
