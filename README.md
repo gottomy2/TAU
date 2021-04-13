@@ -17,5 +17,10 @@ Zaimplementować wyjątek w swoim projekcie.
    [rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab2/out/production/TAU/com/company/lab2)  
    
 
-
-
+3. Instalacja Maven'a/Gradle'a  
+Projekt z laboratoriów 1 dostosować do środowiska Mavenowego/Gradleowego  
+Dopisanie nowej funkcjonalności w projekcie  
+Utworzenie minimum 7 nowych testów  
+Dodanie dwóch nowych dependencji  
+Utworzenie minimum 3 nowych testów do punktu 5.  
+[rozwiązanie]()
