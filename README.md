@@ -28,4 +28,4 @@ Utworzenie minimum 3 nowych testów do punktu 5.
 4. Dodać do projektu Mockito  
 Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich użyciu po 3 testy (dla każdego użyć inny typ zwracany) - użyć when/given    
 (dla chętnych) Napisać i użyć stub  
-[rozwiązanie]()
+[rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab4/src)
