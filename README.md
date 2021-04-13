@@ -23,7 +23,7 @@ Dopisanie nowej funkcjonalności w projekcie
 Utworzenie minimum 7 nowych testów  
 Dodanie dwóch nowych dependencji  
 Utworzenie minimum 3 nowych testów do punktu 5.  
-[rozwiązanie]()
+[rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab3/src)
 
 4. Dodać do projektu Mockito  
 Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich użyciu po 3 testy (dla każdego użyć inny typ zwracany) - użyć when/given    
