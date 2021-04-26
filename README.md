@@ -28,7 +28,18 @@ Utworzenie minimum 3 nowych testów do punktu 5.
 4. Dodać do projektu Mockito  
 Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich użyciu po 3 testy (dla każdego użyć inny typ zwracany) - użyć when/given    
 (dla chętnych) Napisać i użyć stub  
-[rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab4/src)
+[rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab4/src)  
+   
+
+5. Wyszukanie/utworzenie rest api do testowania:   
+   https://github.com/toddmotto/public-apis  
+   W dowolnym języku podłączenie się do API
+   Napisać testy np.:  
+   - niepoprawny request  
+   - zawartość poprawnego requestu - czy istnieje  
+   - zawartość konkretnych wartości (req -> /country=Poland res -> country: Poland)  
+   - zwartość contentu -> klucze  
+(dodatkowe) - znaleźć api udostępniające możliwość dodawania danych, a nie tylko odczytywania i napisać testy dot. innej metody niż GET.
 
 
 6. Utworzyć 3 klasy w pythonie:
