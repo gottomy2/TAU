@@ -29,3 +29,19 @@ Utworzenie minimum 3 nowych testów do punktu 5.
 Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich użyciu po 3 testy (dla każdego użyć inny typ zwracany) - użyć when/given    
 (dla chętnych) Napisać i użyć stub  
 [rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab4/src)
+
+
+6. Utworzyć 3 klasy w pythonie:
+- klasę, która będzie przyjmowała jako parametr sterownik (“Windows” lub “Linux”), w niej metody:
+    - generowanie help’a - słownik, którego kluczem będzie polecenie shellowe dla odpowiedniego systemu, wartości to parametry w postaci kolejnego słownika, gdzie kluczem będzie parametr, a wartością jego opis
+    ```python
+    {  
+        'ls': {  
+            '-l': 'wyświetlanie  szczegółowe',  
+            '-la': 'asd asd'  
+        }
+    }  
+    ```
+    - wyświetlanie opisu danej komendy, funkcja przyjmuje komendę, zwraca jej opis
+- klasę testową, która testować będzie Windowsowe polecenia
+- klasę testową, która testować będzie Linuxowe polecenia
