@@ -44,5 +44,5 @@ Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich uż
     ```
     - wyświetlanie opisu danej komendy, funkcja przyjmuje komendę, zwraca jej opis
 - klasę testową, która testować będzie Windowsowe polecenia
-- klasę testową, która testować będzie Linuxowe polecenia
+- klasę testową, która testować będzie Linuxowe polecenia  
 [rozwiązanie](https://github.com/gottomy2/TAU/blob/main/lab6/lab6.py)
