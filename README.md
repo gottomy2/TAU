@@ -59,3 +59,8 @@ Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich uż
 - klasę testową, która testować będzie Windowsowe polecenia
 - klasę testową, która testować będzie Linuxowe polecenia  
 [rozwiązanie](https://github.com/gottomy2/TAU/blob/main/lab6/lab6.py)
+
+7. Do istniejącego (np. z lab 6) projektu dopisać metodą którą da się przetestować w sposób umożliwiający parametryzację, czyli podanie różnych danych.  
+Dane zawarte jako parametry mają testować różne warunki brzegowe.  
+Np. niepoprawny scenariusz: testuję przedział <-2;2>, czy podane liczby zawierają się w przedziale, dane to: [-1,0,1] - został przetestowany tylko jeden warunek brzegowy,
+Poprawny scenariusz: testuję przedział <-2;2>, czy podane liczby zawierają się w przedziale, liczby to: [0,7, -30, “string do testów”] - przetestowano 4 warunki brzegowe.  
