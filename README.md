@@ -39,7 +39,9 @@ Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich uż
    - zawartość poprawnego requestu - czy istnieje  
    - zawartość konkretnych wartości (req -> /country=Poland res -> country: Poland)  
    - zwartość contentu -> klucze  
-(dodatkowe) - znaleźć api udostępniające możliwość dodawania danych, a nie tylko odczytywania i napisać testy dot. innej metody niż GET.
+(dodatkowe) - znaleźć api udostępniające możliwość dodawania danych, a nie tylko odczytywania i napisać testy dot. innej metody niż GET.  
+[Testowane API (własne)](https://github.com/gottomy2/PostmanCopy)  
+[rozwiązanie](https://github.com/gottomy2/TAU/blob/main/lab5/src/test/java/ApiTest.java)  
 
 
 6. Utworzyć 3 klasy w pythonie:
