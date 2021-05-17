@@ -64,3 +64,10 @@ Zamockować dwa elementy w projekcie np. 2 różne klasy i napisać przy ich uż
 Dane zawarte jako parametry mają testować różne warunki brzegowe.  
 Np. niepoprawny scenariusz: testuję przedział <-2;2>, czy podane liczby zawierają się w przedziale, dane to: [-1,0,1] - został przetestowany tylko jeden warunek brzegowy,
 Poprawny scenariusz: testuję przedział <-2;2>, czy podane liczby zawierają się w przedziale, liczby to: [0,7, -30, “string do testów”] - przetestowano 4 warunki brzegowe.  
+  
+
+8. Wybrać 2 strony/aplikacje webowe  
+Napisać po jednym teście dla każdej strony (testy powinny mieć kilka kroków)
+UWAGA - należy użyć xpath  
+(dodatkowe) Rozwiazać problem z omawianym oknem na zalando.pl (informacja o ciasteczkach) - asynchronicznie  
+[rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab8/src/pl/edu/pjatk/gottomy2)
