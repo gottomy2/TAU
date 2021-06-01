@@ -71,3 +71,7 @@ Napisać po jednym teście dla każdej strony (testy powinny mieć kilka kroków
 UWAGA - należy użyć xpath  
 (dodatkowe) Rozwiazać problem z omawianym oknem na zalando.pl (informacja o ciasteczkach) - asynchronicznie  
 [rozwiązanie](https://github.com/gottomy2/TAU/tree/main/lab8/src/pl/edu/pjatk/gottomy2)
+
+
+10. Do dowolnego zadania z poprzednich laboratoriów dodać logowanie zachowań. Wymagane poziomy: info i error, dodatkowe mile widziane, np. debug bądź warning.  
+Nie trzeba używać biblioteki logging dla pythona, można użyć dowolnego innego rozwiązania.
