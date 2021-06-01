@@ -79,5 +79,5 @@ Uzupełnić wcześniej stworzony raport i dodać do repozytorium
 
 
 10. Do dowolnego zadania z poprzednich laboratoriów dodać logowanie zachowań. Wymagane poziomy: info i error, dodatkowe mile widziane, np. debug bądź warning.  
-Nie trzeba używać biblioteki logging dla pythona, można użyć dowolnego innego rozwiązania.
+Nie trzeba używać biblioteki logging dla pythona, można użyć dowolnego innego rozwiązania.  
 [rozwiązanie](https://github.com/gottomy2/TAU/blob/main/lab10/src/main/java/ApiTest.java)  
